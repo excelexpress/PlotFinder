@@ -11,4 +11,10 @@ Plot types:
 
 Also works for "tilted" plots, so perfect for graphs scanned from reference manuals.
 
-Sample gif: https://i.imgur.com/Gfqmbp1.gifv
+<p align="center">
+  <b>Sample gif</b>
+</p>
+
+<p align="center">
+  <img src="Example.gif" width="500">
+</p>
