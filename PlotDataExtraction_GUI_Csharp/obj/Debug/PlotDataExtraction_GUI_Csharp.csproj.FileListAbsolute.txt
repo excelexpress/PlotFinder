@@ -1,0 +1,108 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe.config
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csprojResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.g.cs
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\obj\Debug\App.g.cs
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.lref
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.baml
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.g.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.Properties.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csproj.GenerateResource.Cache
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.SnippingTool.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe.config
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.pdb
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.pdb
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csprojResolveAssemblyReference.cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.g.cs
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\obj\Debug\App.g.cs
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.lref
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.baml
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.g.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.Properties.Resources.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.SnippingTool.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csproj.GenerateResource.Cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe.config
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.pdb
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csprojResolveAssemblyReference.cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.g.cs
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\obj\Debug\App.g.cs
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.lref
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.pdb
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.baml
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.g.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.Properties.Resources.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.SnippingTool.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 1\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csproj.GenerateResource.Cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe.config
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.pdb
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.pdb
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csprojResolveAssemblyReference.cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.g.cs
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\obj\Debug\App.g.cs
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.lref
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.baml
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.g.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.Properties.Resources.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.SnippingTool.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 2\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csproj.GenerateResource.Cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe.config
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.pdb
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.pdb
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csprojResolveAssemblyReference.cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.g.cs
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\obj\Debug\App.g.cs
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.lref
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.baml
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.g.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.Properties.Resources.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csproj.GenerateResource.Cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 3\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.SnippingTool.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe.config
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.pdb
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.pdb
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csprojResolveAssemblyReference.cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.g.cs
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\obj\Debug\App.g.cs
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.cache
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.lref
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.baml
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.g.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.Properties.Resources.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.SnippingTool.resources
+L:\Stress\Methods\Excel Express\StressEx\SnippingTool\PlotDataExtraction_GUI_Csharp - 4\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csproj.GenerateResource.Cache
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe.config
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.pdb
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csprojResolveAssemblyReference.cache
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.g.cs
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\App.g.cs
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.cache
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp_MarkupCompile.lref
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.pdb
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\MainWindow.baml
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.g.resources
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.Properties.Resources.resources
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.SnippingTool.resources
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-0-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.csproj.GenerateResource.Cache
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-1-0\PlotFinder\PlotDataExtraction_GUI_Csharp\bin\Debug\PlotDataExtraction_GUI_Csharp.exe.config
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-1-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.exe
+L:\Stress\Methods\Excel Express\StressEx\Plot Extraction\Version 1-0-1-0\PlotFinder\PlotDataExtraction_GUI_Csharp\obj\Debug\PlotDataExtraction_GUI_Csharp.pdb
